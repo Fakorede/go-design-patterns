@@ -5,7 +5,7 @@ Design Patterns in the Go programming language
 
 - [Single Responsibility Principle](https://github.com/Fakorede/go-design-patterns/tree/master/01-single-responsibility)
 
-- [Open-Close Principle]()
+- [Open-Closed Principle](https://github.com/Fakorede/go-design-patterns/tree/master/02-open-closed)
 
 - [Liskov Substitution Principle]()
 
